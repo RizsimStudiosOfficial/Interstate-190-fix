@@ -42,12 +42,12 @@ var app = new (function () {
             { name: "17_mosaic", color: "20a1d9", uniqsnd: !1 },
             { name: "18_knowledge", color: "20a1d9", uniqsnd: !1 },
             { name: "19_toina", color: "20a1d9", uniqsnd: !1 },
-            { name: "20_clock", color: "20a1d9", uniqsnd: !1 },
+            { name: "20_clock", color: "20a1d9", uniqsnd: !1 }
         ]),
         (this.bonusarray = [
             { name: "TrackTracks", src: "b1-nahhh-hb.mp4", code: "1,4,8,9,16", sound: "TrackTracks", aspire: "Sigma" },
             { name: "Dinkabreak", src: "b2-dinkabreak-hb.mp4", code: "1,2,6,9,19", sound: "Dinkabreak", aspire: "Dinkabreak Buildup" },
-            { name: "Interstate", src: "b1-terror-hb.mp4", code: "1,9,10,11,13", sound: "bonus-terror", aspire: "Skibidi" },
+            { name: "Interstate", src: "b1-terror-hb.mp4", code: "1,9,10,11,13", sound: "bonus-terror", aspire: "Skibidi" }
         ]),
         (this.unlockerarray = []);
     for (var n = 0, o = this.animearray.length; n < o; n++) {
